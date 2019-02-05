@@ -1,0 +1,10 @@
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.csprojAssemblyReference.cache
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.Form1.resources
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.csproj.GenerateResource.cache
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\bin\Release\CMDAssistant.exe.config
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\bin\Release\CMDAssistant.exe
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\bin\Release\CMDAssistant.pdb
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.Properties.Resources.resources
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.exe
+C:\Users\Wasif\source\repos\CMDAssistant\CMDAssistant\obj\Release\CMDAssistant.pdb
